@@ -6,7 +6,7 @@
     line-height: 3; text-align: center; 
     background-color: aqua;
     
-}
+} 
 
 body{
     background-color: rgb(170, 255, 230);
@@ -17,7 +17,7 @@ body{
     font-style: normal;
     font-weight: normal;
 }
-
+ 
 #camera{
     width:500px;
     height:400px;
